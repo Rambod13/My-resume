@@ -1,9 +1,12 @@
-.green{
-	background-color:green;
+.gray{
+	background-color:gray;
+	color: white;
 }
-.red{
-	background-color:red;
+.black{
+	background-color:black;
 }
-.blue{
-	background-color:blue;
-}
+h3{color:gray;}
+
+.section-title { font-size: 1.5em; margin-top: 20px; margin-bottom: 10px; }
+
+  
